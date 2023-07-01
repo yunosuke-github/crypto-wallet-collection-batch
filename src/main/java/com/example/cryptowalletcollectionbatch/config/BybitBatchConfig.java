@@ -2,7 +2,6 @@ package com.example.cryptowalletcollectionbatch.config;
 
 import com.example.cryptowalletcollectionbatch.dto.AssetHistoryDto;
 import com.example.cryptowalletcollectionbatch.processor.AssetHistoryProcessor;
-import com.example.cryptowalletcollectionbatch.reader.BitbankBatchReader;
 import com.example.cryptowalletcollectionbatch.reader.BybitBatchReader;
 import com.example.cryptowalletcollectionbatch.writer.AssetHistoryWriter;
 import org.springframework.batch.core.Job;

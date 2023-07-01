@@ -1,7 +1,6 @@
 package com.example.cryptowalletcollectionbatch.reader;
 
 import com.example.cryptowalletcollectionbatch.dto.AssetHistoryDto;
-import com.example.cryptowalletcollectionbatch.service.BitbankApiService;
 import com.example.cryptowalletcollectionbatch.service.BybitApiService;
 import com.example.cryptowalletcollectionbatch.service.JobCompletedService;
 import org.springframework.batch.core.configuration.annotation.StepScope;
